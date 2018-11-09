@@ -2,7 +2,7 @@
 title: Graham Comeau
 description: Portfolio
 ---
-![MyPicture]()
+![MyPicture](Capture.PNG)
 
 Creations:
 - [Time Series Analysis](/time_series/index.md)
