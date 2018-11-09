@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Graham Comeau
+description: Portfolio
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
